@@ -4,6 +4,7 @@
 کنترل محرکه
 
 کنترل درایور
+
 V/f voltage vs frequency induction motor simulation
 
 Drive control

@@ -1,4 +1,8 @@
 # asghar-mousavi
+
+V/f voltage vs frequency induction motor simulation
+
+
 شبیه سازی موتور القایی  v/f ولتاژ بر فرکانس
 
 کنترل محرکه
